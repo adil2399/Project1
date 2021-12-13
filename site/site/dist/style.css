@@ -1,0 +1,32 @@
+h1 {
+  color: orange;
+  font-size: 32px;
+  font-family: serif;
+}
+h2 {
+  color: orange;
+  font-size: 24px;
+  font-family: cursive;
+}
+p {
+  color: blue;
+  font-size: 20px;
+  font-family: "Shadows Into Light";
+}
+ul {
+  color: blue;
+  font-size: 20px;
+  font-family: "Shadows Into Light";
+}
+.smaller-image {
+  width: 200px;
+}
+.thick-blue-border {
+    border-color: blue;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 50%;
+  }
+body {
+  background-color: rgb(135,206,235);
+}
